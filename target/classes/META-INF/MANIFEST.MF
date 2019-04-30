@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: master-service
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Mazz
+Implementation-Vendor-Id: org.mazz
+Build-Jdk: 1.8.0_201
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/master-service
+Created-By: Maven Integration for Eclipse
+
